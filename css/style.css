@@ -1,0 +1,25 @@
+body {
+    font-family: Arial;
+}
+
+#container {
+    max-width: 950px;
+    margin: 0 auto;
+    background: lime;
+    min-height: 30vh;
+    padding: 45px 30px;
+}
+
+p {
+    font-size: 30px;
+    text-align: center;
+    border-top: red solid 5px;
+    padding-top: 35px;
+}
+
+button {
+    background-color: #000;
+    color: #fff;
+    margin-bottom: 55px;
+    font-size: 35px;
+}
